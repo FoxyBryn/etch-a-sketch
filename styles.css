@@ -56,6 +56,16 @@ button {
     height: 900px;
     width: 900px;
     background-color: lightcoral;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    padding: 10px;
+}
+
+.grid-square {
+    background-color: white;
+    border: 1px;
+    border-color: black;
 }
 
 .right-side {
