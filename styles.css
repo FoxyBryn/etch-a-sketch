@@ -66,6 +66,7 @@ button {
     background-color: white;
     border: 1px;
     border-color: black;
+    transition: background-color 0.3s ease;
 }
 
 .right-side {
